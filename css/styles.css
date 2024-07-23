@@ -12,6 +12,7 @@ h3 {
     background: url('../img/home-bg.jpg') no-repeat center center;
     background-size: cover;
     color: #fff;
+    padding: 100px 0;
 }
 
 #services h3,
