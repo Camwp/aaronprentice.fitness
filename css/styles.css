@@ -115,6 +115,29 @@ footer {
     margin-bottom: 20px;
 }
 
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+footer h5 {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+    transition: color 0.3s;
+}
+
+footer a:hover {
+    color: #ff5733;
+}
+
 /* Responsive Styles */
 @media (max-width: 768px) {
     #home h1 {
@@ -131,5 +154,9 @@ footer {
 
     .navbar-nav .nav-item {
         margin-bottom: 10px;
+    }
+
+    footer .col-md-4 {
+        margin-bottom: 20px;
     }
 }
