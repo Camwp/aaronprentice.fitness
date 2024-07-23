@@ -91,6 +91,10 @@ section h2::after {
     border-color: #c63c19;
 }
 
+.mb-0 {
+    margin-bottom: 2.5rem !important;
+}
+
 /* Footer Styles */
 footer {
     background-color: #333;
