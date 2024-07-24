@@ -68,6 +68,11 @@ section h2::after {
     transform: translateX(-50%);
 }
 
+.VJL48qbQzWENTFAh1Knk,
+.e9TS9yoMqqIN2PqBo1QG {
+    display: none !important;
+}
+
 #services h3,
 #portfolio img {
     margin-top: 20px;
