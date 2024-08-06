@@ -37,6 +37,8 @@ body {
     text-align: center;
 }
 
+
+
 #home h1 {
     font-size: 3rem;
     margin-bottom: 20px;
@@ -44,6 +46,21 @@ body {
 
 #home p {
     font-size: 1.3rem;
+}
+
+/* Services Section */
+#serviceshome {
+    background: url('../img/serviceshome-bg.jpg') no-repeat center center/cover;
+    color: #fff;
+    padding: 165px 0;
+    text-align: center;
+}
+
+#aboutimg {
+    height: 150px;
+
+    position: no-repeat center center/cover;
+
 }
 
 /* Section Styles */
